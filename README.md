@@ -14,8 +14,8 @@ https://channels.readthedocs.io/en/stable/tutorial/part_3.html
 
 # Execute
 
-docker compose build
+**docker compose build**
 The first time or everytime you want to rebuild the container
 
-docker compose up
+**docker compose up**
 Just run the container
