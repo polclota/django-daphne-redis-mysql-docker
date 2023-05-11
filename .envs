@@ -1,0 +1,6 @@
+MYSQL_PORT=3306
+MYSQL_DATABASE=daphne
+MYSQL_USER=daphne
+MYSQL_PASSWORD=password
+MYSQL_ROOT_PASSWORD=password
+MYSQL_HOST=host.docker.internal

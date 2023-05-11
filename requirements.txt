@@ -1,0 +1,7 @@
+Django
+channels
+environs
+daphne
+redis
+mysqlclient
+channels_redis
