@@ -3,7 +3,8 @@ Working Django Chat project with Daphne Channels, Redis MySQL all dockerized
 
 # Sources
 
-https://docs.djangoproject.com/en/4.2/howto/deployment/asgi/daphne/
+
+https://docs.djangoproject.com/en/4.2/howto/deployment/asgi/daphne/<br>
 https://channels.readthedocs.io/en/stable/
 
 # Inspired on
