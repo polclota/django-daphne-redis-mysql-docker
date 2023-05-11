@@ -20,3 +20,8 @@ https://channels.readthedocs.io/en/stable/tutorial/part_3.html
 
 **docker compose up**<br>
 <i>Just run the container</i>
+
+# Local
+
+You may also execute it locally by creating a local environement then execute the docker, stop the Daphne service and run the server locally.<br>
+The rest of the services will be pulled from the container.
