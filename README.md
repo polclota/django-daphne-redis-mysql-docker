@@ -1,5 +1,5 @@
 # django-daphne-redis-mysql-docker
-Working Django Chat project with Daphne Channels, Redis MySQL all dockerized
+Working Django Chat project with Daphne Channels, Redis and MySQL.  Dockerized!
 
 # Sources
 
