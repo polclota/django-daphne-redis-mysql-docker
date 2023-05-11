@@ -9,7 +9,7 @@ https://channels.readthedocs.io/en/stable/
 
 # Inspired on
 
-It's just an adaptation of this tutorial
+<u>It's just an adaptation of this tutorial</u>:
 
 https://channels.readthedocs.io/en/stable/tutorial/part_3.html
 
