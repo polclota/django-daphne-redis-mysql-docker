@@ -23,5 +23,11 @@ https://channels.readthedocs.io/en/stable/tutorial/part_3.html
 
 # Local
 
-You may also execute it locally by creating a local environement then execute the docker, stop the Daphne service and run the server locally.<br>
+You may also execute it locally by creating a local environment:<br>
+<br>
+virtualenv .venv<br>
+.venv\Scripts\activate.bat (for windows)<br>
+pip install -r requirements.txt<br>
+<br>
+then execute the docker, stop the Daphne service and run the server locally.<br>
 The rest of the services will be pulled from the container.
